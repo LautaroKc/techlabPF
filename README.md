@@ -12,5 +12,6 @@ Cómo probar:
 - Ejecutar con ./mvnw spring-boot:run
 - Probar APIs de productos con Postman (pedidos y excepciones no probadas).
 
-**Cosas que faltaron por implementar**
+**Cosas que faltaron por implementar:**
+
 Validaciones, manejo de pedidos, excepciones, rol, usuario e integración con frontend.
